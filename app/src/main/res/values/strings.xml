@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">kolo_fortuny</string>
+
+    <string-array name="hasla_txt">
+        <item>sroka</item>
+        <item>Ptak</item>
+        <item>pies i kot</item>
+        <item>Zwierze</item>
+        <item>kroliczek</item>
+        <item>Zwierze</item>
+        <item>ala ma kota</item>
+        <item>Powiedzenie</item>
+        <item>witamina c</item>
+        <item>Lek</item>
+        <item>sukienka</item>
+        <item>Ubranie</item>
+        <item>krzeslo</item>
+        <item>Mebel</item>
+        <item>paula</item>
+        <item>Imię</item>
+        <item>dysk twardy</item>
+        <item>W komputerze</item>
+    </string-array>
+
+    <string-array name="kwoty">
+        <item>250</item>
+        <item>350</item>
+        <item>2000</item>
+        <item>100</item>
+        <item>1000</item>
+        <item>Bankrut</item>
+        <item>200</item>
+        <item>5000</item>
+        <item>200</item>
+        <item>250</item>
+        <item>1000</item>
+        <item>300</item>
+        <item>1500</item>
+        <item>350</item>
+        <item>Bankrut</item>
+        <item>500</item>
+        <item>2500</item>
+        <item>500</item>
+        <item>100</item>
+        <item>1500</item>
+
+
+    </string-array>
+
+</resources>
